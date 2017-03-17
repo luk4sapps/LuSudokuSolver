@@ -7,6 +7,6 @@ Current algorithms implemented:
 - Hidden single
 
 TODO:
-- More complex algorithms to solve harder sudokus
+- More complex algorithms to solve harder puzzles
 - Code rearrangement & optimization
 - Graphical user interface
