@@ -2,6 +2,8 @@
 
 Solves Sudoku puzzles (Work in progress ;)
 
+<img src="https://pbs.twimg.com/media/C7IslCUXUAEjTgE.jpg">
+
 Current algorithms implemented:
 - Naked single
 - Hidden single
