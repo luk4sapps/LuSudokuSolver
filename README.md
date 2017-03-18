@@ -1,10 +1,13 @@
 # LuSudokuSolver
 
-Solves Sudoku puzzles (Work in progress ;)
+Solves Sudoku puzzles (Work in progress)
 
 <img src="https://pbs.twimg.com/media/C7IslCUXUAEjTgE.jpg">
 
-Current algorithms implemented:
+Alrgorithms to reduce possible numbers per cell:
+- (WIP)
+
+Algorithms to find numbers for cells:
 - Naked single
 - Hidden single
 
