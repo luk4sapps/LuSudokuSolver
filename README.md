@@ -17,4 +17,4 @@ TODO:
 - Graphical user interface
 
 Info:
-See "sudoku_strategie.pdf" for information about the algorithms (German)
+- See "sudoku_strategie.pdf" for information about the algorithms (German)
