@@ -15,3 +15,6 @@ TODO:
 - More complex algorithms to solve harder puzzles
 - Code rearrangement & optimization
 - Graphical user interface
+
+Info:
+See "sudoku_strategie.pdf" for information about the algorithms (German)
